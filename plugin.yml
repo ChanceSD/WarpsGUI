@@ -1,0 +1,8 @@
+name: Warps
+version: 1.0.2
+author: Norrd
+main: com.Norrd.Warps.Core
+softdepend: [Essentials]
+commands:
+  warps:
+    description: Open the warp menu
